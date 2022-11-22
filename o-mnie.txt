@@ -1,4 +1,7 @@
 Piotr Stachowicz
 Git jest super
 Forbes
+<<<<<<< HEAD
 biały
+=======
+>>>>>>> normalnie
